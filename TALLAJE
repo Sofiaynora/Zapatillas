@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title> ZAPATILLAS NBA 
+  </title>
+
+
+</head>
+
+<body>
+
+<header>
+
+<h1>ZAPATILLAS NBA</h1>
+
+</header>
+
+
+<nav>
+
+<ul>
+
+<li><a href="#tipos de zapatillas">Marcas/Jugadores</a></li>
+
+<li><a href="#enlace2">Política de devolución</a></li>
+
+  <li><a href="#enlace3">Tallaje</a></li>
+  <li><a href="#enlace4">Política de devolución</a></li>
+<li><a href="#enlace5">Envío</a></li>
+
+</ul>
+
+</nav>
+
+
+<main>
+
+<div class="section">
+
+
+  <div 
+<iframe>
+  
+  </div>
+ 
+  <table>
+        <thead>
+            <tr>
+                <th>EU</th>
+                <th>UK</th>
+                <th>USA</th>
+                <th>Centímetros</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>36</td>
+                <td>3,5</td>
+                <td>5</td>
+                <td>21,6</td>
+            </tr>
+            <tr>
+                <td>38</td>
+                <td>5</td>
+                <td>6,5</td>
+                <td>22,9</td>
+            </tr>
+            <tr>
+                <td>40</td>
+                <td>6,5</td>
+                <td>8</td>
+                <td>24,2</td>
+            </tr>
+                          <td>42</td>
+                <td>9</td>
+                <td>12</td>
+                <td>26,5</td>
+         
+                <td colspan="4">Guía de tallas</td>
+            </tr>
+        </tfoot>
+    </table>
+<div>
+    <!-- Menú de navegación -->
+<nav>
+<ul>
+<li><a href="URL de NOSOTROS">Nosotros</a></li>
+<li><a href="URL de CONTACTO">Contacto</a></li>
+</ul>
+</nav>
+ 
+</main>
+
+
+<footer>
+  
+  <p>Pie de página con información de contacto.</p>
