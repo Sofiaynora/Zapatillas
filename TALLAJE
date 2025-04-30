@@ -26,13 +26,15 @@
 
 <ul>
 
-<li><a href="#tipos de zapatillas">Marcas/Jugadores</a></li>
+<li><a href="index.html">Inicio</li>
 
-<li><a href="#enlace2">Política de devolución</a></li>
+<li><a href="marcas.html">Marcas/Jugadores</a></li>
+  
+<li><a href="tallaje.html">Tallaje</li>
 
-  <li><a href="#enlace3">Tallaje</a></li>
-  <li><a href="#enlace4">Política de devolución</a></li>
-<li><a href="#enlace5">Envío</a></li>
+<li><a href="politicadedevolucion.html">Política de devolución</a></li>
+
+<li><a href="envio.html">Envío</a></li>
 
 </ul>
 
